@@ -39,8 +39,8 @@ Other modifications to become MSX2.
  1. Remove 8743 MaskROM. (video titler software)  
  2. Cut the 2nd pin of CN106 in a pattern and enable video output.  
  3. Connect keyboard. (I used the following.)  
-  FAMILY BASIC keyboard to S1985 MSX
-  http://niga2.sytes.net/
+  FAMILY BASIC keyboard to S1985 MSX  
+  http://niga2.sytes.net/  
   Hyperlink: にがMSX - 秋葉原最終処分場のMSX基板を弄る (前編)  
 
 ![01](/jpg/01.jpg)
